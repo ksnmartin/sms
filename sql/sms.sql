@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 07, 2020 at 12:16 PM
+-- Generation Time: Sep 07, 2020 at 12:49 PM
 -- Server version: 10.4.14-MariaDB
 -- PHP Version: 7.2.33
 
@@ -159,13 +159,7 @@ INSERT INTO `posts` (`post_id`, `from_user_id`, `content`, `image`, `timestamp`)
 (50, '22', 'icon from id 22 and username is sajid', 'background-1939128_1280.jpg', '2019-10-11 17:58:10'),
 (51, '20', 'test 21', 'mufazmi.png', '2019-10-12 00:51:01'),
 (52, '20', 'shilpa shetty.. posting this content using student ai id 20', 'Shilpa-Shetty.jpeg', '2019-10-12 02:01:04'),
-(57, '20', 'trtwert', '28471706_206517316770319_3770339559908589751_n.png', '2019-10-14 07:40:49'),
-(58, '20', 'demo data posted by using student_id 20', '28471706_206517316770319_3770339559908589751_n.png', '2019-10-16 11:21:34'),
-(59, '21', 'Firdos Abbasi', 'firdos - Copy.jpg', '2019-10-21 05:19:12'),
-(61, '20', 'this is our basic input box for posting content into the database server, we have checked that our user can\'t perform xxs attack,\r\nthis demo post is made by username = mufazmi, ', '', '2019-10-21 15:28:55'),
-(68, '20', 'when i reached my home then what i saw my dad were crying for me, my sister my brother even my bhaijaan was crying for me\r\n.....\r\n\r\n\r\n\r\nfirdos you know my father got the first heart just because of me, and even i have\'t disclossed that what was happened, you have\'t cleared any things yet..\r\n\r\nand that will be your one of the biggest mistake of your life which you have made yet....\r\n\r\nfirdos don\'t forget this case can changed your life, because my life has been changed, just because of you.\r\n\r\n\r\n\r\n\r\n\r\nfirdos please give me one chance for becomming your life partner please yaar please firdo syou are mine life yaar you are mine life please please please give me one chance', '', '2019-10-21 17:47:39'),
-(69, '20', 'A SENTENCE CHANGED MINE LIFE: - what was happened exactly? and why there was more than five people were crying.. why why why why why.?', '', '2019-10-21 17:48:45'),
-(67, '20', 'jazakallah for everythings,\r\nif in feature shadab perfomed any unusual activities against me , then i will forget that, who i am ? who are you? and who is he? \r\nand also i will not responsible for everything, i had tried all possible things to solve this case, but i am unable to solve.\r\n\r\nFirdos Abbasi, you know, i had faced too many problem, too many horible setuation just becuase of you.....\r\n\r\n\r\nfirdos abbasi you know that\'s i had more than forty one thousand in my pocket, and when i reached my home then what i saw?\r\n\r\nmy mom and dad was crying for me, but before going to my home i had goes to my fathers shop, i were don\'t know , that what was happened there, i was fighting with my dad to don\'t stop me go to home..\r\n\r\nbut they was shouting at me and saying you will with me,\r\n\r\nmost important things here, after reaching the shop my dad never ask for money which i had,\r\n\r\nthey were caring about me shouting crying how are you, why you too late, coz i had blocked to everyone,,\r\n\r\nmy dad got a first heart attack just because of, i have fighted with me also my dad and brother and sister,\r\n\r\n\r\nwhy why why why why why,,,, i have never said about you firdos abbasi....\r\n\r\nbut in the end firdos i love you very very very very much,,,,\r\n\r\n\r\n\r\nplease firdos give me one chance for becomming your life partner please firdos please!\r\n', '', '2019-10-21 17:31:41');
+(59, '21', 'Firdos Abbasi', 'firdos - Copy.jpg', '2019-10-21 05:19:12');
 
 -- --------------------------------------------------------
 
